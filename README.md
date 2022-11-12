@@ -1,7 +1,9 @@
 #Server setup:
-$ cd server_express
+$ cd server
 $ npm install
-$ cp .env.example .env
+$ cp .env.example .evn
+
+Hiệu chỉnh file .evn
 
 Client setup:
 $ cd ..
